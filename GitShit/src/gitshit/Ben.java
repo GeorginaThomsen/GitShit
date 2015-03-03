@@ -11,4 +11,7 @@ package gitshit;
  */
 public class Ben {
     
+    public void PushItBen(){
+        
+    }
 }
