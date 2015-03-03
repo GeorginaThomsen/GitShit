@@ -16,6 +16,7 @@ public class GitShit {
      */
     public static void main(String[] args) {
         // TODO code application logic here
+        System.out.println("Ben has altered this.");
     }
     
 }
