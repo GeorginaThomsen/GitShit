@@ -11,4 +11,8 @@ package gitshit;
  */
 public class Adam {
     
+    
+    //How to make gitshit work:
+    //Make a repository at github's website,
+    //Clone it, then commit and use pull/push to send and receive
 }
