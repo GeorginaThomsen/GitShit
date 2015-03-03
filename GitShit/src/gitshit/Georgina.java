@@ -5,10 +5,29 @@
  */
 package gitshit;
 
+import java.util.Arrays;
+import java.util.HashMap;
+
 /**
  *
  * @author Cookie
  */
 public class Georgina {
     
+    
+    public void freq(int[] arr) {
+        Arrays.sort(arr);
+//        System.out.println(arr);
+
+        HashMap<Integer, Integer> hm = new HashMap<>();
+        
+        for(int i = 0; i<arr.length;i++){
+            hm.put(arr[i], hm.get(arr[i]++));
+            
+        }
+        System.out.println(hm);
+    }
+    public String awesomeGeorgina(String awesomness){
+        return awesomness;
+    }
 }
