@@ -9,6 +9,6 @@ package gitshit;
  *
  * @author Cookie
  */
-public class Adan {
+public class Adam {
     
 }
